@@ -2,7 +2,7 @@
 # This script takes 2 inputs, an ENV, and a Terraform execution command (plan or apply).
 # It is a wrapper script to be used in conjunction with a CI component and
 # programmatically run the Terraform tool for managing infrastructure.
-# source https://www.reddit.com/r/Terraform/comments/fnqcbq/deployment_script_for_terraform_workspacesmultienv/
+# source from https://www.reddit.com/r/Terraform/comments/fnqcbq/deployment_script_for_terraform_workspacesmultienv/
 
 
 # Echo commands in the shell
